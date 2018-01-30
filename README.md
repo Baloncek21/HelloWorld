@@ -1,4 +1,4 @@
 # Hello World
 
-New change, bla wohooo
+Hello, My First Git
 
